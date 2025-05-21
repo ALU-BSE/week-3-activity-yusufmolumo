@@ -1,0 +1,14 @@
+GET https://api.github.com/users/octocat
+
+###
+GET https://api.github.com/users/octocat/repos
+
+###
+GET https://api.github.com/repos/octocat/Hello-World
+Accept: application/vnd.github.v3+json
+
+###
+GET https://api.github.com/user/repos
+Authorization: my api token was here but i had to remove so that i can push as github stopped my pushing with my key exposed
+
+###
